@@ -99,3 +99,11 @@ The popularity of ***"Mini chicken biryani"*** suggests that it satisfies custom
 ![image](https://github.com/Anshu3721/Zomato-dataset-EDA/blob/main/Top%20best%20sellet%20category.png)<br>
 **In this study, we figure out the top 3 categories that sell the most. The ***"Best Seller"*** category catches our attention, showing that customers really like what it offers. 
 The fact that ***"Best Seller"*** is recognized as a top-seller suggests that it matches what customers like and could include various dishes that many people enjoy.**
+<br>
+
+## Conclusions
+- ***Better Ratings, More Success:*** Restaurants with high ratings, like "Natural Ice Cream" and "Mitra Cafe," attract more customers.
+- ***Good Value Matters:*** "Zaffran Mataam Alarabi" offers tasty food at a fair price. People like this mix of quality and affordability.
+- ***Votes Show Good Places:*** "Chowman" and "Annamaya" get lots of votes for good service. 
+- ***Popular Spots, Popular Food:*** "RTC X Roads" and "Hyderabad" are loved by food lovers. 
+- ***People's Favorites Rule:*** "Beverages" and "Mini chicken biryani" are top choices. 
